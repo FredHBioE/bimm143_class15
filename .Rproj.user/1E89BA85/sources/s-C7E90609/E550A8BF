@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559926070938.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3919479628",
+    "id" : "E550A8BF",
+    "lastKnownWriteTime" : 1558463250,
+    "last_content_update" : 1558463250,
+    "path" : "C:/Users/Fred/Desktop/BIMM 143/BIMM_143_Lab_15_Genome_Annotation/bimm143_class15/bimm_143_class_15.Rmd",
+    "project_path" : "bimm_143_class_15.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
